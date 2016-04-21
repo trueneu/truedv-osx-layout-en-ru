@@ -1,6 +1,8 @@
 # dvorak-programmer-osx-layout-en-ru
 Programmer Dvorak keyboard layouts 
+
 Official site of the layout: http://www.kaufmann.no/roland/dvorak/
+
 Original layout license: http://www.kaufmann.no/roland/dvorak/license.html
 
 Since there is no Dvorak Programmer keyboard layouts in OSX by default, I've created one by myself with Ukelele (http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele).

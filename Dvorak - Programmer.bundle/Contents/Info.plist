@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.unsavedukeleledocument</string>
+	<string>org.sil.ukelele.keyboardlayout.dvorakprogrammerfixed2</string>
 	<key>CFBundleName</key>
 	<string>Dvorak - Programmer</string>
 	<key>CFBundleVersion</key>
-	<string>&amp;</string>
+	<string></string>
 	<key>KLInfo_Dvorak - Programmer</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.unsavedukeleledocument.dvorak-programmer</string>
+		<string>org.sil.ukelele.keyboardlayout.dvorakprogrammerfixed2.dvorak-programmer</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>

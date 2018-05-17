@@ -5,13 +5,13 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.dvorakprogrammerfixed2</string>
 	<key>CFBundleName</key>
-	<string>Dvorak - Programmer</string>
+	<string>truedv</string>
 	<key>CFBundleVersion</key>
 	<string></string>
-	<key>KLInfo_Dvorak - Programmer</key>
+	<key>KLInfo_truedv</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.dvorakprogrammerfixed2.dvorak-programmer</string>
+		<string>org.sil.ukelele.keyboardlayout.dvorakprogrammerfixed2.truedv</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>

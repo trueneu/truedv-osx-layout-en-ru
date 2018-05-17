@@ -5,13 +5,13 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.russian-programmerdvorak</string>
 	<key>CFBundleName</key>
-	<string>Russian - Dvorak - Programmer fixed</string>
+	<string>truedv-ru</string>
 	<key>CFBundleVersion</key>
 	<string></string>
-	<key>KLInfo_Russian - Dvorak - Programmer - Fixed</key>
+	<key>KLInfo_truedv-ru</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.russian-programmerdvorak.russian-dvorak-programmer-fixed</string>
+		<string>org.sil.ukelele.keyboardlayout.russian-programmerdvorak.truedv-ru</string>
 		<key>TISIntendedLanguage</key>
 		<string>ru</string>
 	</dict>
